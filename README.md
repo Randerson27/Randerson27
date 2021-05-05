@@ -1,4 +1,4 @@
-# Olá!👋, eu sou o José Randerson - Desenvolvedor Web
+# Olá!👋, eu sou o José Randerson - Desenvolvedor FrontEnd
 
 ### 🧑 Sobre mim
 Eu tenho 22 anos e gosto muito de programar. Atualmente estou Cursando Análise e Desenvolvimento de Sistemas e meu objetivo é aprender novas linguagens, criar e participar de novos projetos para me tornar um grande programador!
