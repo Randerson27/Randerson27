@@ -1,4 +1,4 @@
-# Olá!👋, eu sou o José Randerson - Programdor júnior
+# Olá!👋, eu sou o José Randerson - Programador júnior
 
 ### 🧑 Sobre mim
 Eu tenho 23 anos e gosto muito de programar. Atualmente estou Cursando Análise e Desenvolvimento de Sistemas e meu objetivo é aprender novas linguagens, criar e participar de novos projetos afim de me tornar um grande programador!
