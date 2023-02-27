@@ -1,4 +1,4 @@
-# Olá!👋, eu sou o José Randerson - Programador júnior
+# Olá!👋, eu sou o José Randerson - Programador Full Stack
 
 ### 🧑 Sobre mim
 Eu tenho 24 anos e gosto muito de programar. Sou formado em Análise e Desenvolvimento de Sistemas e estou a procura de uma oportunidade!
