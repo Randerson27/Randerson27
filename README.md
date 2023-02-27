@@ -1,7 +1,6 @@
-# Olá!👋, eu sou o José Randerson - Programador Full Stack
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=header"/>
 
-### 🧑 Sobre mim
-Eu tenho 24 anos e gosto muito de programar. Sou formado em Análise e Desenvolvimento de Sistemas e estou a procura de uma oportunidade!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48D1CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+José+Randerson;I'm+24+years+old;I'm+from+Brazil;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/randerson27">
@@ -31,4 +30,6 @@ Eu tenho 24 anos e gosto muito de programar. Sou formado em Análise e Desenvolv
  
 </div>
   
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Randerson27&bg_color=292929&color=b02eb2&line=3d3bb5&point=43a88f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=footer"/>
