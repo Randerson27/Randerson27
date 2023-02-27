@@ -16,7 +16,7 @@ Eu tenho 24 anos e gosto muito de programar. Sou formado em Análise e Desenvolv
   <img align="center" alt="randerson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-
+  <img align="right" height="230" width="200" src="DarkSoulsIcon.gif"/>
 
 </div>
 
